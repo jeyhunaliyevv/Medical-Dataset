@@ -1,10 +1,10 @@
 # Medical-Dataset
 Medical Dataset Analysis
 Overview
-This project focuses on the analysis of a medical dataset containing information about patients' health metrics and test results. The dataset was collected from [data source], and it includes various features such as age, gender, heart rate, blood pressure, blood sugar levels, and cardiac enzyme levels. The goal of this analysis is to explore the relationships between different health metrics and diagnose potential heart conditions based on the provided data.
+This project focuses on the analysis of a medical dataset containing information about patients' health metrics and test results. The dataset was collected from [kaggle], and it includes various features such as age, gender, heart rate, blood pressure, blood sugar levels, and cardiac enzyme levels. The goal of this analysis is to explore the relationships between different health metrics and diagnose potential heart conditions based on the provided data.
 
 Data Source
-The dataset used in this project is sourced from [data source]. It consists of [number of samples] samples and [number of features] features. Each sample represents a patient, and the features include:
+The dataset used in this project is sourced from [kaggle]. It consists of [1318] samples and [11] features. Each sample represents a patient, and the features include:
 
 Age: Age of the patient.
 Gender: Gender of the patient (1 for male, 0 for female).
@@ -26,7 +26,7 @@ Analysis and Modeling
 The analysis involves exploring the relationships between different health metrics and the presence of heart conditions. Various machine learning models, including logistic regression and random forest, were trained and evaluated to predict the presence of heart conditions based on the provided features. Model performance metrics such as accuracy, precision, recall, and F1-score were computed to assess the effectiveness of each model.
 
 Results
-The analysis revealed significant correlations between certain health metrics and the presence of heart conditions. For example, older age, higher blood pressure, and elevated cardiac enzyme levels were associated with an increased risk of heart conditions. The random forest model outperformed other models, achieving an accuracy of [accuracy score] on the test dataset.
+The analysis revealed significant correlations between certain health metrics and the presence of heart conditions. For example, older age, higher blood pressure, and elevated cardiac enzyme levels were associated with an increased risk of heart conditions. The random forest model outperformed other models, achieving an accuracy of [85] on the test dataset.
 
 Technologies Used
 Python
