@@ -26,7 +26,7 @@ Analysis and Modeling
 The analysis involves exploring the relationships between different health metrics and the presence of heart conditions. Various machine learning models, including logistic regression and random forest, were trained and evaluated to predict the presence of heart conditions based on the provided features. Model performance metrics such as accuracy, precision, recall, and F1-score were computed to assess the effectiveness of each model.
 
 Results
-The analysis revealed significant correlations between certain health metrics and the presence of heart conditions. For example, older age, higher blood pressure, and elevated cardiac enzyme levels were associated with an increased risk of heart conditions. The random forest model outperformed other models, achieving an accuracy of [85] on the test dataset.
+The analysis revealed significant correlations between certain health metrics and the presence of heart conditions. For example, older age, higher blood pressure, and elevated cardiac enzyme levels were associated with an increased risk of heart conditions. The random forest model outperformed other models, achieving an accuracy of [98] on the test dataset.
 
 Technologies Used
 Python
